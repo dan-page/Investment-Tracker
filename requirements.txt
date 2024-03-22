@@ -1,0 +1,6 @@
+pandas
+PyQt5
+yfinance
+requests
+caldav
+python-dateutil
